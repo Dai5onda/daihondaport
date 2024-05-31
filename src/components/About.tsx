@@ -71,7 +71,7 @@ export default function About() {
 
       <div className="max-w-4xl">
   <Paragraph className="mt-4">
-    Hey there! I'm Dai
+    Hey there! I&apos;m Dai
   </Paragraph>
   <Paragraph className="mt-4">
     From an early age, I&apos;ve been a first principle thinker, always approaching problems from their root and finding efficient solutions. My coding journey began at 12, inspired by my love for Minecraft. I enjoyed building complex structures like automatic piston doors and redstone contraptions, which taught me the joy of bringing ideas to life through code.
