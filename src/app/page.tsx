@@ -24,7 +24,7 @@ export default function Home() {
         as="h2"
         className="font-black text-lg md:text-lg lg:text-lg mt-20 mb-4"
       >
-        What I&apos;ve been working on
+        If you are reading this, I'm cooked. but i promise it'll be finish by this morning. please come check this again in the morning. apologies for my lazyness
       </Heading>
       <Products />
       <TechStack />
