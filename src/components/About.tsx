@@ -74,7 +74,7 @@ export default function About() {
     Hey there! I'm Dai
   </Paragraph>
   <Paragraph className="mt-4">
-    From an early age, I’ve been a first principle thinker, always approaching problems from their root and finding efficient solutions. My coding journey began at 12, inspired by my love for Minecraft. I enjoyed building complex structures like automatic piston doors and redstone contraptions, which taught me the joy of bringing ideas to life through code.
+    From an early age, I&apos;ve been a first principle thinker, always approaching problems from their root and finding efficient solutions. My coding journey began at 12, inspired by my love for Minecraft. I enjoyed building complex structures like automatic piston doors and redstone contraptions, which taught me the joy of bringing ideas to life through code.
   </Paragraph>
   <Paragraph className="mt-4">
     I started with C++, creating sensor systems and IoT projects. At 14, I secured my first internship as an RPA developer, where I developed a Slack bot for meeting reminders.
