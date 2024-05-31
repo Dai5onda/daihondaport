@@ -83,7 +83,7 @@ export default function About() {
     As a self-learner, I thrive on discovering knowledge independently and find traditional school learning less appealing. I have a deep interest in Artificial Intelligence, driven by the satisfaction of enabling computers to make dynamic decisions. The potential of AI to revolutionize various fields by enhancing decision-making processes fascinates me.
   </Paragraph>
   <Paragraph className="mt-4">
-    My approach to learning and problem-solving is rooted in curiosity and a desire to understand the fundamentals. Whether it's delving into Machine Learning and Artificial Intelligence or tackling new and exciting challenges, I am driven by a passion for innovation and efficiency.
+    My approach to learning and problem-solving is rooted in curiosity and a desire to understand the fundamentals. Whether it&apos;s delving into Machine Learning and Artificial Intelligence or tackling new and exciting challenges, I am driven by a passion for innovation and efficiency.
   </Paragraph>
 </div>
 
