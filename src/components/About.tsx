@@ -38,7 +38,7 @@ export default function About() {
             />
           </motion.div>
         ))}
-        {/* 
+        {/*
         // <Image
         //   src="https://images.unsplash.com/photo-1692544350322-ac70cfd63614?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=800&q=60"
         //   width={200}
@@ -70,50 +70,23 @@ export default function About() {
       </div>
 
       <div className="max-w-4xl">
-        <Paragraph className=" mt-4">
-          Hey there, I&apos;m John Doe - a passionate developer, avid writer,
-          and a connoisseur of awesome design. Welcome to my corner of the
-          digital world!
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          Since the early days of my journey, I&apos;ve been captivated by the
-          art of crafting exceptional digital experiences. As a developer, I
-          thrive on turning lines of code into functional and elegant solutions.
-          My goal is to not just create software, but to build digital marvels
-          that seamlessly merge form and function.
-        </Paragraph>
+  <Paragraph className="mt-4">
+    Hey there! I'm Dai
+  </Paragraph>
+  <Paragraph className="mt-4">
+    From an early age, I’ve been a first principle thinker, always approaching problems from their root and finding efficient solutions. My coding journey began at 12, inspired by my love for Minecraft. I enjoyed building complex structures like automatic piston doors and redstone contraptions, which taught me the joy of bringing ideas to life through code.
+  </Paragraph>
+  <Paragraph className="mt-4">
+    I started with C++, creating sensor systems and IoT projects. At 14, I secured my first internship as an RPA developer, where I developed a Slack bot for meeting reminders.
+  </Paragraph>
+  <Paragraph className="mt-4">
+    As a self-learner, I thrive on discovering knowledge independently and find traditional school learning less appealing. I have a deep interest in Artificial Intelligence, driven by the satisfaction of enabling computers to make dynamic decisions. The potential of AI to revolutionize various fields by enhancing decision-making processes fascinates me.
+  </Paragraph>
+  <Paragraph className="mt-4">
+    My approach to learning and problem-solving is rooted in curiosity and a desire to understand the fundamentals. Whether it's delving into Machine Learning and Artificial Intelligence or tackling new and exciting challenges, I am driven by a passion for innovation and efficiency.
+  </Paragraph>
+</div>
 
-        <Paragraph className=" mt-4">
-          But my journey doesn&apos;t stop at coding. With a heart full of words
-          and a mind brimming with ideas, I&apos;ve ventured into the realm of
-          writing. From tech articles that unravel complex concepts to creative
-          tales that ignite the imagination, I weave words to inform, entertain,
-          and inspire.
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          What sets me apart is my unwavering appreciation for design. I believe
-          that aesthetics and usability go hand in hand. My eye for awesome
-          design ensures that every project I undertake not only works
-          flawlessly under the hood but also looks stunning on the surface.
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          Through this website, I aim to share my insights, experiences, and
-          creations with you. Whether you&apos;re a fellow developer seeking
-          solutions, a fellow writer in search of inspiration, or simply someone
-          who appreciates the finer aspects of design, there&apos;s something
-          here for you.
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          Join me on this journey of bytes and narratives, logic and creativity,
-          code and prose. Together, we can explore the boundless possibilities
-          of technology and storytelling, all while reveling in the sheer beauty
-          of thoughtful design.
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          Thank you for being here, and I can&apos;t wait to embark on this
-          adventure with you.
-        </Paragraph>
-      </div>
     </div>
   );
 }
