@@ -22,7 +22,7 @@ export default async function Blog() {
       <span className="text-4xl">📝</span>
       <Heading className="font-black pb-4">My proudest awards and certificates.</Heading>
       <Paragraph className="pb-10">
-        through hardwork and sleepless night
+        through hardworks and sleepless nights
       </Paragraph>
       <Blogs blogs={data} />
     </Container>

@@ -6,10 +6,22 @@ import { twMerge } from "tailwind-merge";
 export const TechStack = () => {
   const stack = [
     {
-      title: "Next.js",
-      src: "/images/logos/next.png",
+      title: "Python",
+      src: "/images/logos/python.png",
 
-      className: "h-10 w-14",
+      className: "h-10 w-9",
+    },
+    {
+      title: "C",
+      src: "/images/logos/c.png",
+
+      className: "h-10 w-8",
+    },
+    {
+      title: "C++",
+      src: "/images/logos/c++.png",
+
+      className: "h-10 w-8",
     },
     {
       title: "AWS",
@@ -18,22 +30,16 @@ export const TechStack = () => {
       className: "h-10 w-10",
     },
     {
-      title: "Figma",
-      src: "/images/logos/figma.png",
+      title: "VIM",
+      src: "/images/logos/vim.png",
 
-      className: "h-10 w-8",
+      className: "h-10 w-9",
     },
     {
-      title: "Framer Motion",
-      src: "/images/logos/framer.webp",
+      title: "VScode",
+      src: "/images/logos/vscode.png",
 
-      className: "h-10 w-10",
-    },
-    {
-      title: "Node",
-      src: "/images/logos/node.png",
-
-      className: "h-10 w-12",
+      className: "h-10 w-9",
     },
     {
       title: "Tailwind",
