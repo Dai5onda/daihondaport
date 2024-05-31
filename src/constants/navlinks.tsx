@@ -24,12 +24,12 @@ export const navlinks = [
   },
   {
     href: "/blog",
-    label: "Articles",
+    label: "Awards",
     icon: IconArticle,
   },
-  {
-    href: "/contact",
-    label: "Contact",
-    icon: IconMail,
-  },
+  // {
+  //   href: "/contact",
+  //   label: "Contact",
+  //   icon: IconMail,
+  // },
 ];
